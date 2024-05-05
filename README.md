@@ -31,9 +31,10 @@ Analyzing HTTP and SMTP for malware infection of the Agent Tesla variant infecti
 - <img width="765" alt="image" src="https://github.com/chromosems/Network-analysis-with-Wireshark/assets/44053943/e56b7f9a-b3c4-48bb-9242-b60013737455">
 - Now opening up the email
 - <img width="571" alt="image" src="https://github.com/chromosems/Network-analysis-with-Wireshark/assets/44053943/9a45d389-761e-42f4-b83b-1caed5ec0dbd">
+*Ref : Downloaded email display*
+
 In conclusion this project has enhanced my skills working with wireshark to perform packet analysis to identify specific details.
 
 
 
 
-*Ref 1: Network Diagram*
